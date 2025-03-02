@@ -1,4 +1,4 @@
-👋 Hi, I'm Tatiana! 
+### 👋 Hi, I'm Tatiana! 
 
 A curious builder, problem-solver, and lifelong learner passionate about technology, AI, and entrepreneurship - always **learning, building, and exploring** new ideas that drive impact.  
 
