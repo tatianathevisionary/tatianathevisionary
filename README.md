@@ -1,4 +1,6 @@
-- 👋 Hi, I'm Tatiana! A curious builder, problem-solver, and lifelong learner passionate about technology, AI, and entrepreneurship - always **learning, building, and exploring** new ideas that drive impact.  
+👋 Hi, I'm Tatiana! 
+
+A curious builder, problem-solver, and lifelong learner passionate about technology, AI, and entrepreneurship - always **learning, building, and exploring** new ideas that drive impact.  
 
 ### 🚀 What I'm Working On:
 - 📊 **Learning Data Science** and applying it to real-world problems  
