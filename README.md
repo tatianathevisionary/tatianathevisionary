@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tatiana-pustoyetova">
-    <img src="https://img.shields.io/badge/LinkedIn-tatiana--pustoyetova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/tatianathevisionary">
+    <img src="https://img.shields.io/badge/LinkedIn-tatianathevisionary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="https://metaposters.ai">
@@ -17,6 +17,16 @@
 ---
 
 I don't use AI tools — I build them. MCP servers, agents, and research systems with cited sources and typed boundaries, not vibes. **AI is the medium I work in, not a tool I borrow.**
+
+---
+
+### 🧠 What I do
+
+- **AI engineering** — design and ship MCP servers, multi-agent systems, and agent fleets. Author of two patterns I keep reusing: a four-file agent-identity stack (soul · brain · playbook · memory) and sub-agent isolation with thin orchestration (no logic in the orchestrator).
+- **Agent design** — composable, named skills over monolithic prompts; `_base/` templates that make a new domain agent a week's work, not a month's.
+- **Applied AI research** — treat failure modes as research problems, not prompts to tweak. Diagnose the ceiling before touching the model.
+- **Creative & product** — name the thing, give it a soul. Identity-aware copy, distinct-aesthetic interfaces, narratives people feel.
+- **Computer vision** — image scoring, feature extraction, automated ranking.
 
 ---
 
