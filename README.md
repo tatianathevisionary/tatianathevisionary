@@ -5,13 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tatianathevisionary">
-    <img src="https://img.shields.io/badge/LinkedIn-tatianathevisionary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="https://metaposters.ai">
-    <img src="https://img.shields.io/badge/metaposters.ai-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Metaposters">
-  </a>
+  <a href="https://linkedin.com/in/tatianathevisionary"><img src="https://img.shields.io/badge/LinkedIn-tatianathevisionary-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://metaposters.ai"><img src="https://img.shields.io/badge/metaposters.ai-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Metaposters"></a>
 </p>
 
 ---
@@ -43,27 +38,22 @@ I don't use AI tools — I build them. MCP servers, agents, and research systems
 
 ---
 
+### 🧰 Skills & Tools
+
+| | |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · Rust · SQL · HTML / CSS |
+| **AI & agents** | MCP (protocol + server design) · Claude Code (skills, sub-agents, slash commands) · Cursor · FastMCP · multi-agent orchestration · RAG · prompt engineering · tool use |
+| **Data & ML** | pandas · scikit-learn · Jupyter · feature engineering · hypothesis testing & experimental design · computer vision |
+| **Web & deploy** | Node.js · FastAPI · Jekyll · GitHub Pages · GitHub Actions |
+| **APIs & integrations** | Zod · Notion API · Slack API · Datadog (LLM Observability) · GraphQL · BigQuery |
+
+*Learning:* NVIDIA AI Infrastructure & Operations · BrainStation Data Science (certified)
+
+---
+
 ### 🧱 How I work
 
 **Build → codify → cite → diagnose → measure.**
 
 Every workflow I run twice becomes a reusable skill. Every claim ships with a source. When an AI system stalls, I treat it as a research problem — not a prompt to tweak.
-
----
-
-### ⚙️ Tech
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/MCP_Protocol-F97316?style=for-the-badge" alt="MCP Protocol">
-  <img src="https://img.shields.io/badge/Claude_Code-7C3AED?style=for-the-badge" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" alt="Cursor">
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-6366F1?style=for-the-badge" alt="Multi-Agent Systems">
-  <img src="https://img.shields.io/badge/Computer_Vision-10B981?style=for-the-badge" alt="Computer Vision">
-</p>
