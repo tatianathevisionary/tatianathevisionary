@@ -1,12 +1,23 @@
-### 👋 Hi, I'm Tatiana! 
+### 👋 I'm Tatiana — AI engineer & builder
 
-A curious builder, problem-solver, and lifelong learner passionate about technology, AI, and entrepreneurship - always **learning, building, and exploring** new ideas that drive impact.  
+I don't use AI tools. I build them.
 
-### 🚀 What I'm Working On:
-- 📊 **Learning Data Science** and applying it to real-world problems  
-- 🤖 Exploring **AI & automation** for productivity and efficiency  
-- 🛠 Experimenting with **building AI-powered tools for entrepreneurs**  
-- 🌐 **[Future of Work Project](https://github.com/tatianathevisionary/future-of-work)**: An AI research initiative leveraging **[RivalSearchMCP](https://github.com/damionrashford/RivalSearchMCP)**, **Cursor**, and **GitHub Pages** to explore innovative solutions for the evolving workplace  
+I author MCP servers, agents, and research systems — the kind of infrastructure that lets AI do real work with cited sources and typed boundaries, not vibes. AI is the medium I work in, not a tool I borrow.
 
-### 🌎 Connect With Me:
-- 💼 [LinkedIn](https://linkedin.com/in/tatiana-pustoyetova)  
+### 🛠️ What I'm building
+
+- **[wealthsimple-mcp](https://github.com/tatianathevisionary/wealthsimple-mcp)** — Model Context Protocol server wiring AI agents into the Wealthsimple Help Center. 7 typed tools, Zod-validated boundaries, opt-in observability. TypeScript, strict mode.
+- **[notion-template-generator](https://github.com/tatianathevisionary/notion-template-generator)** — MCP server for Notion automation & content generation. 39 tools across 8 categories, wiki management, AI-powered reorganization. Python.
+- **[future-of-work](https://github.com/tatianathevisionary/future-of-work)** — AI research initiative on preparing organizations for the AI-powered workplace. Built with RivalSearchMCP + Cursor, deployed on GitHub Pages.
+- **[metaposters](https://github.com/tatianathevisionary/metaposters)** — independent AI-native poster studio. ([metaposters.ai](https://metaposters.ai))
+- **[poster-analyzer-and-picker](https://github.com/tatianathevisionary/poster-analyzer-and-picker)** — computer-vision tool that scores and ranks poster designs on color, texture, and composition. Python.
+
+### 🧱 How I work
+
+`Build → codify → cite → diagnose → measure.` Every workflow I run twice becomes a reusable skill. Every claim ships with a source. When an AI system stalls, I treat it as a research problem, not a prompt to tweak.
+
+**Stack:** TypeScript · Python · MCP · Claude · Cursor
+
+### 🌎 Connect
+
+💼 [LinkedIn](https://linkedin.com/in/tatiana-pustoyetova)
