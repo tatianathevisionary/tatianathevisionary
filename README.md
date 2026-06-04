@@ -4,10 +4,6 @@
   AI Engineer · Builder of MCP servers, agents & research systems
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/tatianathevisionary"><img src="https://img.shields.io/badge/LinkedIn-tatianathevisionary-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://metaposters.ai"><img src="https://img.shields.io/badge/metaposters.ai-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Metaposters"></a>
-</p>
 
 ---
 
