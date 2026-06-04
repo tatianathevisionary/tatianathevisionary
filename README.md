@@ -1,13 +1,8 @@
 <h1 align="center">Tatiana Pustovetova</h1>
 
-<p align="center">
-  AI Engineer · Builder of MCP servers, agents & research systems
-</p>
-
-
 ---
 
-I don't use AI tools — I build them. MCP servers, agents, and research systems with cited sources and typed boundaries, not vibes. **AI is the medium I work in, not a tool I borrow.**
+I don't use AI tools — I build them. **AI is the medium I work in, not a tool I borrow.**
 
 ---
 
